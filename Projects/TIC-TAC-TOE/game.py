@@ -106,8 +106,8 @@ def play(game, x_player, o_player, print_game=True):
         # tiny break to make things a little easier to read
         time.sleep(0.8)
 
-        if print_game:
-            print('Its a tie!')
+    if print_game:
+        print('Its a tie!')
 
 
 if __name__ == '__main__':
