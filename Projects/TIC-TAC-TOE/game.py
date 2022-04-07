@@ -1,8 +1,3 @@
-from operator import le
-from turtle import Turtle
-
-from numpy import square
-
 from player import HumanPlayer, RandomComputerPlayer
 import time
 
